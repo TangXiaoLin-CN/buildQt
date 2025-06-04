@@ -4,7 +4,7 @@ on: workflow_dispatch
 #on: [push, pull_request]
 
 env:
-  QT_VERSION: 6.9.0
+  QT_VERSION: 6.9.1
   QT_VERSION2: 6.9
   FILE_NAME: static-Release_msvc2022_64
 
